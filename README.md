@@ -4,13 +4,13 @@
 Clear Cache in one tap.
 
 ## Benefits of Clearing Discord Cache
-Clearing Roblox Cache has a lot of advantages, here are few:
+Clearing Discord Cache has a lot of advantages, here are few:
 * Frees up space on the hard drive.
 * Makes computer and hard drive faster as junk is cleaned.
 * and much more.
 
 ## Setup Instructions
-Setting RCacheCleaner is pretty easy, you can download the executable or you can run the python file.
+Setting DCacheCleaner is pretty easy, you can download the executable or you can run the python file.
 
 > ### Executable
 1. Go to the [Releases Tab
